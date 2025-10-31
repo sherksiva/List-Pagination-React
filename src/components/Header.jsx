@@ -12,7 +12,7 @@ const Header = () => {
             <ul>
               <li>
                 <a className='btn' href='https://github.com/sherksiva?tab=repositories'>
-                  Go to my Github
+                  Github
                 </a>
               </li>
             </ul>
